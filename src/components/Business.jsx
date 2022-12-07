@@ -25,7 +25,7 @@ const Business = () =>  (
         Diseño, Desarrollo, Publicidad.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Diseñaremos y desarrollaremos tu página con las ultimas tecnologias del mercado, 
+        Diseñaremos y desarrollaremos tu página con las últimas tecnologías del mercado, 
         nos encargaremos desde el inicio hasta la publicación de la página, también llevaremos tu campaña publicitaria completa (Google y Redes Sociales).
       </p>
     </div>

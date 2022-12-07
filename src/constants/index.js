@@ -28,14 +28,14 @@ export const features = [
     icon: shield,
     title: "Seguridad",
     content:
-      "Utilizamos servidores internacionales altamente confiables, con la máxima proteccion. Nosotros nos encargaremos al 100% de la seguridad de tu página.",
+      "Utilizamos servidores internacionales altamente confiables, con la máxima protección. Nosotros nos encargaremos al 100% de la seguridad de tu página.",
   },
   {
     id: "feature-3",
     icon: send,
     title: "Velocidad",
     content:
-      "Trabajamos con las últimas tecnologias del mercado, para asegurarte un funcionamiento óptimo y una alta Velocidad.",
+      "Trabajamos con las últimas tecnologías del mercado, para asegurarte un funcionamiento óptimo y una alta Velocidad.",
   },
 ];
 

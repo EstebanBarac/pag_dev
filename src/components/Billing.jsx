@@ -20,7 +20,7 @@ const Billing = () => (
         Para emprendedores o negocios pequeños ofrecemos este paquete inicial (puede necesitar mantenimiento mensual) :
         <ul className="font-bold text-white mt-4">
           <li className="p-1">
-            -Creacion de logo (opcional).
+            -Creación de logo (opcional).
           </li>
           <li className="p-1">
             -Diseño página web.
