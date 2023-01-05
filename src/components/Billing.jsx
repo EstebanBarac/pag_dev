@@ -14,7 +14,7 @@ const Billing = () => (
 
     <div className={layout.sectionInfo}>
       <h2 className={`${styles.heading2} text-gradient`}>
-        Emprededores <br className="sm:block hidden" /> </h2><h2 className={styles.heading2}>Marca Personal
+        Emprendedores <br className="sm:block hidden" /> </h2><h2 className={styles.heading2}>Marca Personal
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         Para emprendedores o negocios pequeños ofrecemos este paquete inicial (puede necesitar mantenimiento mensual) :
